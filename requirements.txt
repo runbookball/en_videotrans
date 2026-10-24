@@ -1,0 +1,6 @@
+youtube-transcript-api==1.2.4
+yt-dlp==2026.8.19
+openai==3.33.0
+python-dotenv==1.2.4
+imageio-ffmpeg==0.6.0
+faster-whisper==1.2.1

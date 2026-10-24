@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+work/
+models/
+tools/
+
+# 个人学习记录（不进公开仓库）
+.remember/
+学习方法.md
+收尾计划.md
