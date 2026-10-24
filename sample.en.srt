@@ -1,0 +1,1272 @@
+1
+00:00:07,205 --> 00:00:09,225
+[music]
+
+2
+00:00:11,790 --> 00:00:13,810
+[music]
+
+3
+00:00:14,920 --> 00:00:22,560
+>> So this is not an iPhone Duo. This is
+
+4
+00:00:19,680 --> 00:00:24,880
+the Xiaomi 18 fold. What you're looking
+
+5
+00:00:22,560 --> 00:00:26,760
+at is a folding phone with the exact
+
+6
+00:00:24,880 --> 00:00:29,120
+same dimensions as the iPhone Duo, the
+
+7
+00:00:26,760 --> 00:00:31,680
+exact same aspect ratio for the inside
+
+8
+00:00:29,120 --> 00:00:34,120
+screen and the outside screen. It has a
+
+9
+00:00:31,680 --> 00:00:37,680
+lot of the same features as the iPhone
+
+10
+00:00:34,120 --> 00:00:40,480
+Duo, including this D-shaped display.
+
+11
+00:00:37,680 --> 00:00:42,360
+But it has also one-upped it in several
+
+12
+00:00:40,480 --> 00:00:43,480
+really key ways. I just want to start by
+
+13
+00:00:42,360 --> 00:00:44,840
+answering a question that a lot of
+
+14
+00:00:43,480 --> 00:00:46,560
+people get wrong on the internet right
+
+15
+00:00:44,840 --> 00:00:47,840
+now, which is just
+
+16
+00:00:46,560 --> 00:00:49,680
+how does this happen? How do we have the
+
+17
+00:00:47,840 --> 00:00:51,680
+iPhone Duo getting unveiled on September
+
+18
+00:00:49,680 --> 00:00:53,920
+9th, 2026,
+
+19
+00:00:51,680 --> 00:00:56,680
+but this Xiaomi fold was officially
+
+20
+00:00:53,920 --> 00:00:59,280
+unveiled two days earlier on September
+
+21
+00:00:56,680 --> 00:01:01,720
+7th, 2026. There are people saying,
+
+22
+00:00:59,280 --> 00:01:02,600
+"Wow, Apple actually copied Xiaomi." But
+
+23
+00:01:01,720 --> 00:01:04,360
+then a whole bunch of other people
+
+24
+00:01:02,600 --> 00:01:05,800
+saying, "No, no, no, Xiaomi did still
+
+25
+00:01:04,360 --> 00:01:07,640
+copy Apple even though it came out
+
+26
+00:01:05,800 --> 00:01:09,440
+first." But we also know that the
+
+27
+00:01:07,640 --> 00:01:12,200
+development cycle of these tech products
+
+28
+00:01:09,440 --> 00:01:13,440
+is many, many, many months, usually
+
+29
+00:01:12,200 --> 00:01:15,240
+years.
+
+30
+00:01:13,440 --> 00:01:17,720
+And yet somehow these phones got
+
+31
+00:01:15,240 --> 00:01:19,320
+unveiled two days from each other. So,
+
+32
+00:01:17,720 --> 00:01:21,480
+here's the deal. We know that these tech
+
+33
+00:01:19,320 --> 00:01:23,840
+companies are very, very competitive.
+
+34
+00:01:21,480 --> 00:01:25,880
+They're also very, very secretive. So a
+
+35
+00:01:23,840 --> 00:01:27,280
+company like Apple, if they can help it,
+
+36
+00:01:25,880 --> 00:01:30,240
+is going to try to develop their new
+
+37
+00:01:27,280 --> 00:01:31,960
+products in complete secrecy as long as
+
+38
+00:01:30,240 --> 00:01:33,280
+possible. So they can surprise people at
+
+39
+00:01:31,960 --> 00:01:34,880
+launch. So of course they've been
+
+40
+00:01:33,280 --> 00:01:36,920
+watching the foldables market and they
+
+41
+00:01:34,880 --> 00:01:38,920
+finally have decided to jump in. And so
+
+42
+00:01:36,920 --> 00:01:40,800
+they start developing and working on
+
+43
+00:01:38,920 --> 00:01:42,640
+their folding iPhone. They will have
+
+44
+00:01:40,800 --> 00:01:44,040
+these very strict rules for people
+
+45
+00:01:42,640 --> 00:01:45,800
+working on these really, really
+
+46
+00:01:44,040 --> 00:01:47,920
+secretive, unannounced products just to
+
+47
+00:01:45,800 --> 00:01:49,520
+try to keep things from leaking.
+
+48
+00:01:47,920 --> 00:01:50,840
+To the point where like engineers go
+
+49
+00:01:49,520 --> 00:01:52,440
+home at the end of the day and they
+
+50
+00:01:50,840 --> 00:01:54,120
+can't tell their families about the
+
+51
+00:01:52,440 --> 00:01:55,360
+thing they worked on at work that day.
+
+52
+00:01:54,120 --> 00:01:56,960
+So things can actually stay pretty
+
+53
+00:01:55,360 --> 00:01:59,160
+contained within Apple's walls, but
+
+54
+00:01:56,960 --> 00:02:00,960
+eventually they have to go out and make
+
+55
+00:01:59,160 --> 00:02:02,720
+the thing. And so they have to go and
+
+56
+00:02:00,960 --> 00:02:04,880
+have those conversations with part
+
+57
+00:02:02,720 --> 00:02:06,400
+suppliers and factories and start
+
+58
+00:02:04,880 --> 00:02:09,200
+probing and having those conversations
+
+59
+00:02:06,400 --> 00:02:11,440
+and placing orders of parts to actually
+
+60
+00:02:09,200 --> 00:02:13,080
+make the thing that they designed.
+
+61
+00:02:11,440 --> 00:02:15,680
+And those other companies
+
+62
+00:02:13,080 --> 00:02:17,920
+are not quite as secretive as Apple. So
+
+63
+00:02:15,680 --> 00:02:20,240
+that's where information starts to leak
+
+64
+00:02:17,920 --> 00:02:22,120
+and people start to find out that Apple
+
+65
+00:02:20,240 --> 00:02:24,320
+needs a bunch of folding OLEDs of this
+
+66
+00:02:22,120 --> 00:02:26,880
+size and a hinge that works in this
+
+67
+00:02:24,320 --> 00:02:28,120
+exact way and a chassis of these exact
+
+68
+00:02:26,880 --> 00:02:29,560
+dimensions. So that's how you end up
+
+69
+00:02:28,120 --> 00:02:31,600
+with the new mock-ups and stuff with the
+
+70
+00:02:29,560 --> 00:02:33,520
+exact dimensions of the new iPhone. Now
+
+71
+00:02:31,600 --> 00:02:34,880
+software stuff notably doesn't leak
+
+72
+00:02:33,520 --> 00:02:37,240
+nearly as much because it doesn't have
+
+73
+00:02:34,880 --> 00:02:38,600
+to go through that entire supply chain
+
+74
+00:02:37,240 --> 00:02:40,560
+and so they're actually typically able
+
+75
+00:02:38,600 --> 00:02:42,080
+to surprise us a little bit more with
+
+76
+00:02:40,560 --> 00:02:43,959
+the software features. But yeah, now
+
+77
+00:02:42,080 --> 00:02:46,360
+it's months before the release of the
+
+78
+00:02:43,959 --> 00:02:48,320
+next iPhone and companies like Xiaomi,
+
+79
+00:02:46,360 --> 00:02:50,160
+you know, they don't have a CAD render
+
+80
+00:02:48,320 --> 00:02:52,720
+of the exact new iPhone that's going to
+
+81
+00:02:50,160 --> 00:02:55,360
+come out, but they do have enough
+
+82
+00:02:52,720 --> 00:02:57,640
+to make their own version of the thing.
+
+83
+00:02:55,360 --> 00:02:59,720
+And they have the advantage of speed. So
+
+84
+00:02:57,640 --> 00:03:01,640
+they can go into overdrive and commit to
+
+85
+00:02:59,720 --> 00:03:04,280
+putting this thing together and putting
+
+86
+00:03:01,640 --> 00:03:05,720
+it out before the predictable Apple
+
+87
+00:03:04,280 --> 00:03:06,680
+event timing.
+
+88
+00:03:05,720 --> 00:03:07,760
+And there's lots of examples of this
+
+89
+00:03:06,680 --> 00:03:09,920
+happening before. You might remember
+
+90
+00:03:07,760 --> 00:03:11,600
+last year, literally months before the
+
+91
+00:03:09,920 --> 00:03:13,600
+iPhone Air September announcement, we
+
+92
+00:03:11,600 --> 00:03:15,360
+got a teaser of this ultra-thin phone
+
+93
+00:03:13,600 --> 00:03:18,120
+that Samsung's working on that turned
+
+94
+00:03:15,360 --> 00:03:21,239
+out to be the S25 Edge that came out
+
+95
+00:03:18,120 --> 00:03:24,519
+first. Same idea. And Xiaomi as we know
+
+96
+00:03:21,239 --> 00:03:27,400
+is not exactly shy about borrowing
+
+97
+00:03:24,519 --> 00:03:29,680
+Apple's aesthetic in an effort to try to
+
+98
+00:03:27,400 --> 00:03:31,320
+borrow some of their customers. So yeah,
+
+99
+00:03:29,680 --> 00:03:33,920
+this shouldn't exactly be a shock to us.
+
+100
+00:03:31,320 --> 00:03:37,720
+A folding phone that is to the
+
+101
+00:03:33,920 --> 00:03:40,760
+millimeter the exact same height and
+
+102
+00:03:37,720 --> 00:03:42,480
+width and same aspect ratio
+
+103
+00:03:40,760 --> 00:03:44,040
+as Apple's folding phone.
+
+104
+00:03:42,480 --> 00:03:45,560
+Uh but then actually went out and
+
+105
+00:03:44,040 --> 00:03:46,880
+one-upped the iPhone Duo in a couple of
+
+106
+00:03:45,560 --> 00:03:48,320
+ways, too. So if you remember my first
+
+107
+00:03:46,880 --> 00:03:50,400
+impressions of the iPhone Duo, the
+
+108
+00:03:48,320 --> 00:03:52,640
+passport size is nice, the shape is
+
+109
+00:03:50,400 --> 00:03:54,280
+actually really reachable, but that is a
+
+110
+00:03:52,640 --> 00:03:57,560
+heavy phone. It's actually the heaviest
+
+111
+00:03:54,280 --> 00:03:59,800
+iPhone of all time, clocking in at 254
+
+112
+00:03:57,560 --> 00:04:00,800
+g. And you know, it feels substantial,
+
+113
+00:03:59,800 --> 00:04:02,440
+and I think a lot of people, I'm sure,
+
+114
+00:04:00,800 --> 00:04:04,880
+will associate that weight with high
+
+115
+00:04:02,440 --> 00:04:07,280
+quality. But, what a lot of us foldables
+
+116
+00:04:04,880 --> 00:04:09,760
+people end up liking more is a lighter
+
+117
+00:04:07,280 --> 00:04:11,760
+object to hold, just less fatiguing. And
+
+118
+00:04:09,760 --> 00:04:13,520
+this Xiaomi Fold is a whole 30 g
+
+119
+00:04:11,760 --> 00:04:15,600
+lighter, much closer to the weight of a
+
+120
+00:04:13,520 --> 00:04:17,320
+normal large slab phone, and that makes
+
+121
+00:04:15,600 --> 00:04:20,400
+a huge difference. And they've managed
+
+122
+00:04:17,320 --> 00:04:22,760
+to do this with a 6,000 mA hour silicon
+
+123
+00:04:20,400 --> 00:04:25,320
+carbon battery that also supports 67 W
+
+124
+00:04:22,760 --> 00:04:26,840
+fast charging and 50 W wireless charging
+
+125
+00:04:25,320 --> 00:04:29,200
+with the right accessory. We don't know
+
+126
+00:04:26,840 --> 00:04:31,520
+the exact battery size of the iPhone Duo
+
+127
+00:04:29,200 --> 00:04:33,200
+yet, but if I was guessing, and this is
+
+128
+00:04:31,520 --> 00:04:34,680
+before the reviews that are, of course,
+
+129
+00:04:33,200 --> 00:04:36,760
+coming soon, so get subscribed to see
+
+130
+00:04:34,680 --> 00:04:39,520
+that, but if I was guessing,
+
+131
+00:04:36,760 --> 00:04:42,200
+the battery might be either the weakest
+
+132
+00:04:39,520 --> 00:04:43,800
+or second weakest part of that phone.
+
+133
+00:04:42,200 --> 00:04:45,800
+Apple's famously pretty conservative
+
+134
+00:04:43,800 --> 00:04:47,880
+with the physical battery capacity.
+
+135
+00:04:45,800 --> 00:04:49,440
+They're not doing silicon carbon, and
+
+136
+00:04:47,880 --> 00:04:51,000
+they're not doing super fast charging.
+
+137
+00:04:49,440 --> 00:04:53,040
+And so, people are estimating the Duo's
+
+138
+00:04:51,000 --> 00:04:55,400
+battery to be somewhere around that
+
+139
+00:04:53,040 --> 00:04:57,840
+5,000 mA hour mark combined between the
+
+140
+00:04:55,400 --> 00:04:59,640
+two sides. That is smaller than the 18
+
+141
+00:04:57,840 --> 00:05:01,040
+Pro Max's battery. And we know the 820
+
+142
+00:04:59,640 --> 00:05:03,640
+Pro is great and everything, but there
+
+143
+00:05:01,040 --> 00:05:05,680
+is also a massive 7 and 1/2 inch screen
+
+144
+00:05:03,640 --> 00:05:07,600
+to power when it's open. The Z Fold 8
+
+145
+00:05:05,680 --> 00:05:09,200
+has the same limitation. It has a 4,800
+
+146
+00:05:07,600 --> 00:05:11,120
+mA hour battery, and if you use it with
+
+147
+00:05:09,200 --> 00:05:13,120
+that screen open for long enough, it
+
+148
+00:05:11,120 --> 00:05:14,720
+just drinks battery quite a bit faster
+
+149
+00:05:13,120 --> 00:05:16,240
+than when it's closed. Xiaomi has never
+
+150
+00:05:14,720 --> 00:05:18,040
+been shy about the super high capacity
+
+151
+00:05:16,240 --> 00:05:19,440
+silicon carbon batteries, and I think a
+
+152
+00:05:18,040 --> 00:05:21,760
+folding phone is the right place to put
+
+153
+00:05:19,440 --> 00:05:22,800
+it. It's thinner, there's less volume,
+
+154
+00:05:21,760 --> 00:05:24,720
+you're kind of splitting it up with a
+
+155
+00:05:22,800 --> 00:05:26,520
+hinge in the middle, but you have a huge
+
+156
+00:05:24,720 --> 00:05:29,160
+screen, so you want it to be able to
+
+157
+00:05:26,520 --> 00:05:30,120
+last all day, and putting 6,000 mA hours
+
+158
+00:05:29,160 --> 00:05:31,200
+in there
+
+159
+00:05:30,120 --> 00:05:33,320
+goes a long way. But, then the other
+
+160
+00:05:31,200 --> 00:05:35,360
+thing you've probably noticed by now is
+
+161
+00:05:33,320 --> 00:05:37,480
+those cameras. So, in case you forgot
+
+162
+00:05:35,360 --> 00:05:39,720
+with all the hype, the iPhone Duo has
+
+163
+00:05:37,480 --> 00:05:41,400
+two cameras. It's a primary and an ultra
+
+164
+00:05:39,720 --> 00:05:43,919
+wide. There is no zoom camera. The
+
+165
+00:05:41,400 --> 00:05:45,440
+Xiaomi Fold back here has a camera bar
+
+166
+00:05:43,919 --> 00:05:48,920
+with triple cameras around the back.
+
+167
+00:05:45,440 --> 00:05:52,240
+There's a 200 MP primary, and it has an
+
+168
+00:05:48,920 --> 00:05:53,840
+ultrawide and a 50-megapixel 3 and 1/2 X
+
+169
+00:05:52,240 --> 00:05:55,440
+zoom camera as well. Now, we already
+
+170
+00:05:53,840 --> 00:05:57,400
+know these foldables don't have the most
+
+171
+00:05:55,440 --> 00:05:59,240
+Z depth. They're ultra thin because
+
+172
+00:05:57,400 --> 00:06:00,680
+they're split in half on both sides, so
+
+173
+00:05:59,240 --> 00:06:03,160
+that's why there's no Face ID on the
+
+174
+00:06:00,680 --> 00:06:04,560
+iPhone Duo. Not enough room for it. Uh
+
+175
+00:06:03,160 --> 00:06:06,680
+and so there also is always that
+
+176
+00:06:04,560 --> 00:06:09,480
+challenge of not having a lot of room
+
+177
+00:06:06,680 --> 00:06:10,920
+for actual flagship-sized large camera
+
+178
+00:06:09,480 --> 00:06:13,200
+sensors. But, it does feel like Xiaomi
+
+179
+00:06:10,920 --> 00:06:15,160
+still found a way to one-up the iPhone
+
+180
+00:06:13,200 --> 00:06:16,720
+at least on paper.
+
+181
+00:06:15,160 --> 00:06:19,600
+I think our best guess for the iPhone
+
+182
+00:06:16,720 --> 00:06:21,919
+Duo's camera is it's probably the iPhone
+
+183
+00:06:19,600 --> 00:06:24,000
+17 E's main camera. You know, the
+
+184
+00:06:21,919 --> 00:06:26,560
+descriptions on Apple's site are exactly
+
+185
+00:06:24,000 --> 00:06:27,760
+the same. 48 megapixels, hybrid focus
+
+186
+00:06:26,560 --> 00:06:30,400
+pixels.
+
+187
+00:06:27,760 --> 00:06:32,960
+That sensor is much smaller than the one
+
+188
+00:06:30,400 --> 00:06:35,120
+Xiaomi's using. It's a 1/2.55-in
+
+189
+00:06:32,960 --> 00:06:36,720
+sensor. And Xiaomi has a 200-megapixel
+
+190
+00:06:35,120 --> 00:06:38,919
+1/1.56-in
+
+191
+00:06:36,720 --> 00:06:40,600
+sensor. So, you know, TBD on how well
+
+192
+00:06:38,919 --> 00:06:42,760
+the iPhone Duo's camera actually
+
+193
+00:06:40,600 --> 00:06:44,200
+performs and if the A20 Pro's image
+
+194
+00:06:42,760 --> 00:06:45,440
+signal processor can squeeze anything
+
+195
+00:06:44,200 --> 00:06:47,560
+more out of it. You know, you can at
+
+196
+00:06:45,440 --> 00:06:49,120
+least guaranteed give Xiaomi the win in
+
+197
+00:06:47,560 --> 00:06:50,680
+the zoom department for having a
+
+198
+00:06:49,120 --> 00:06:52,280
+dedicated zoom camera. And I'll also
+
+199
+00:06:50,680 --> 00:06:54,480
+throw in that I find this this little
+
+200
+00:06:52,280 --> 00:06:56,720
+camera bar is kind of nice to hold when
+
+201
+00:06:54,480 --> 00:06:58,919
+I'm using the phone in portrait. It's
+
+202
+00:06:56,720 --> 00:07:01,120
+kind of like a little handle. Um
+
+203
+00:06:58,919 --> 00:07:02,560
+probably smudging this a lot also, but
+
+204
+00:07:01,120 --> 00:07:04,200
+it's nice. On the inside screen, you
+
+205
+00:07:02,560 --> 00:07:06,320
+probably remember the iPhone hid their
+
+206
+00:07:04,200 --> 00:07:07,720
+selfie camera underneath the display.
+
+207
+00:07:06,320 --> 00:07:09,440
+Xiaomi just went ahead with a standard
+
+208
+00:07:07,720 --> 00:07:10,840
+hole-punch cutout in the corner. Which,
+
+209
+00:07:09,440 --> 00:07:12,400
+I mean, that's going to win by default
+
+210
+00:07:10,840 --> 00:07:13,520
+for image quality. I don't really mind
+
+211
+00:07:12,400 --> 00:07:15,240
+it in the corner up here either. It's
+
+212
+00:07:13,520 --> 00:07:17,160
+out of the way. Obviously, the big,
+
+213
+00:07:15,240 --> 00:07:19,919
+dramatic, uninterrupted surface with no
+
+214
+00:07:17,160 --> 00:07:21,560
+crease and no cutouts is cool and it
+
+215
+00:07:19,919 --> 00:07:22,640
+resembles the iPad.
+
+216
+00:07:21,560 --> 00:07:25,080
+But, yeah, there's a cutout here with
+
+217
+00:07:22,640 --> 00:07:28,360
+Xiaomi. Now, the Xiaomi does have a bit
+
+218
+00:07:25,080 --> 00:07:30,280
+more crease here. It's not terrible, but
+
+219
+00:07:28,360 --> 00:07:31,720
+there is no anti-glare finish and it can
+
+220
+00:07:30,280 --> 00:07:32,760
+sometimes catch your eye once in a
+
+221
+00:07:31,720 --> 00:07:35,120
+while, but it's definitely not
+
+222
+00:07:32,760 --> 00:07:37,280
+problematic. Like if the Duo and the
+
+223
+00:07:35,120 --> 00:07:39,240
+Find N6 are 9 out of 10 for a crease
+
+224
+00:07:37,280 --> 00:07:40,600
+delete, this is at a 7. But, there's
+
+225
+00:07:39,240 --> 00:07:41,920
+also one more big difference between
+
+226
+00:07:40,600 --> 00:07:44,120
+these phones, which is that thing that
+
+227
+00:07:41,920 --> 00:07:46,360
+doesn't really leak nearly as much,
+
+228
+00:07:44,120 --> 00:07:48,520
+which is that software. You know, that's
+
+229
+00:07:46,360 --> 00:07:51,080
+why things like that opening and closing
+
+230
+00:07:48,520 --> 00:07:53,280
+glassy animation that Apple pulled off
+
+231
+00:07:51,080 --> 00:07:55,600
+actually took us all by surprise and
+
+232
+00:07:53,280 --> 00:07:58,040
+makes us feel a really big difference in
+
+233
+00:07:55,600 --> 00:07:59,600
+how responsive and nice it feels to use
+
+234
+00:07:58,040 --> 00:08:01,280
+an iPhone duo. Now, Android folding
+
+235
+00:07:59,600 --> 00:08:02,640
+phones have also had these screen
+
+236
+00:08:01,280 --> 00:08:03,960
+opening and closing animations for a
+
+237
+00:08:02,640 --> 00:08:05,640
+while now,
+
+238
+00:08:03,960 --> 00:08:07,560
+but there are some differences. First of
+
+239
+00:08:05,640 --> 00:08:09,280
+all, when you close basically any
+
+240
+00:08:07,560 --> 00:08:11,000
+Android folding phone, the default
+
+241
+00:08:09,280 --> 00:08:13,080
+behavior is to just assume that you're
+
+242
+00:08:11,000 --> 00:08:14,480
+done with it and you're shutting it. And
+
+243
+00:08:13,080 --> 00:08:16,680
+if you want to continue, then you have
+
+244
+00:08:14,480 --> 00:08:18,680
+to act. You have to either swipe or wake
+
+245
+00:08:16,680 --> 00:08:19,640
+up the outside display.
+
+246
+00:08:18,680 --> 00:08:21,080
+And I've been using foldables for a
+
+247
+00:08:19,640 --> 00:08:23,480
+while. I've really gotten used to that
+
+248
+00:08:21,080 --> 00:08:25,240
+behavior. The iPhone does not do that.
+
+249
+00:08:23,480 --> 00:08:27,760
+As soon as you're halfway done closing
+
+250
+00:08:25,240 --> 00:08:30,560
+it, it lights up the outside display to
+
+251
+00:08:27,760 --> 00:08:32,479
+maintain this sort of fluid continuity
+
+252
+00:08:30,560 --> 00:08:33,880
+with the animation. And I don't hate
+
+253
+00:08:32,479 --> 00:08:36,719
+that, but I want to point out two things
+
+254
+00:08:33,880 --> 00:08:39,320
+that the Android foldable software has
+
+255
+00:08:36,719 --> 00:08:42,120
+that I'm just wondering when the iPhone
+
+256
+00:08:39,320 --> 00:08:43,800
+duo will eventually add. So, number one,
+
+257
+00:08:42,120 --> 00:08:45,640
+more windows at once. Like these are
+
+258
+00:08:43,800 --> 00:08:48,120
+going to be multitasking machines.
+
+259
+00:08:45,640 --> 00:08:50,480
+iPhone duo famously only lets you do two
+
+260
+00:08:48,120 --> 00:08:54,320
+apps side by side. And that's it. The
+
+261
+00:08:50,480 --> 00:08:56,680
+Android world is full of multi-window,
+
+262
+00:08:54,320 --> 00:08:58,560
+bubble window, overlay, triple app
+
+263
+00:08:56,680 --> 00:09:00,320
+multitasking, all sorts of crazy stuff
+
+264
+00:08:58,560 --> 00:09:02,800
+everywhere as if you have a full-size
+
+265
+00:09:00,320 --> 00:09:04,400
+tablet. And, you know, two screens side
+
+266
+00:09:02,800 --> 00:09:06,320
+by side is not bad, but maybe there'll
+
+267
+00:09:04,400 --> 00:09:08,800
+be a third at some point. But then two,
+
+268
+00:09:06,320 --> 00:09:11,800
+so this is something Mr. Mobile brought
+
+269
+00:09:08,800 --> 00:09:13,800
+up a few times uh with these folds is
+
+270
+00:09:11,800 --> 00:09:16,360
+the camera. So, when you're taking a
+
+271
+00:09:13,800 --> 00:09:18,120
+photo of yourself using the primary
+
+272
+00:09:16,360 --> 00:09:19,720
+cameras,
+
+273
+00:09:18,120 --> 00:09:22,800
+that back screen. These phones all
+
+274
+00:09:19,720 --> 00:09:24,400
+specifically disable the back screen to
+
+275
+00:09:22,800 --> 00:09:25,560
+prevent accidental touches. It's very
+
+276
+00:09:24,400 --> 00:09:27,360
+clever. They've all kind of realized
+
+277
+00:09:25,560 --> 00:09:29,480
+that this is a smart thing to do. The
+
+278
+00:09:27,360 --> 00:09:31,520
+iPhone duo actually doesn't seem to do
+
+279
+00:09:29,480 --> 00:09:33,240
+this. And it would kind of shock me if
+
+280
+00:09:31,520 --> 00:09:35,280
+they didn't realize sooner or later that
+
+281
+00:09:33,240 --> 00:09:36,720
+they should do this, but we haven't seen
+
+282
+00:09:35,280 --> 00:09:38,600
+that yet. That is definitely something
+
+283
+00:09:36,720 --> 00:09:41,320
+I'll be keeping an eye on.
+
+284
+00:09:38,600 --> 00:09:44,640
+Also, I am excited to finally announce
+
+285
+00:09:41,320 --> 00:09:45,960
+that the desk pad that we've made is
+
+286
+00:09:44,640 --> 00:09:48,120
+finally actually on sale. We
+
+287
+00:09:45,960 --> 00:09:49,600
+collaborated with Omnitype, so if you
+
+288
+00:09:48,120 --> 00:09:51,880
+know, you know, and we designed this
+
+289
+00:09:49,600 --> 00:09:54,680
+brand new desk pad, and I think it's
+
+290
+00:09:51,880 --> 00:09:56,320
+awesome. It's large, it's 4 mm thick, it
+
+291
+00:09:54,680 --> 00:09:58,160
+has this nice stitching around the edges
+
+292
+00:09:56,320 --> 00:10:00,000
+and rubber at the bottom to keep it
+
+293
+00:09:58,160 --> 00:10:01,880
+soundly in place, and there's actually
+
+294
+00:10:00,000 --> 00:10:03,600
+two versions of this on the site for
+
+295
+00:10:01,880 --> 00:10:06,160
+those of you who really know ball.
+
+296
+00:10:03,600 --> 00:10:08,560
+There's smooth and rough. Smooth will
+
+297
+00:10:06,160 --> 00:10:10,400
+feel like a normal mouse pad, rough is
+
+298
+00:10:08,560 --> 00:10:12,400
+has a little texture to it for more
+
+299
+00:10:10,400 --> 00:10:13,560
+precise movements if you're into that. I
+
+300
+00:10:12,400 --> 00:10:15,280
+think if you just want something you're
+
+301
+00:10:13,560 --> 00:10:16,600
+you're familiar with, smooth is probably
+
+302
+00:10:15,280 --> 00:10:18,760
+the way to go, but I really like the
+
+303
+00:10:16,600 --> 00:10:21,000
+rough. All the mouse pads I use have
+
+304
+00:10:18,760 --> 00:10:22,760
+that texture, so if you know, if you
+
+305
+00:10:21,000 --> 00:10:24,120
+want that, you can get it. But yeah,
+
+306
+00:10:22,760 --> 00:10:25,720
+we're very happy to finally be launching
+
+307
+00:10:24,120 --> 00:10:27,920
+this. It's uh it's on the site on
+
+308
+00:10:25,720 --> 00:10:29,880
+mkbhd.com. You can get one starting
+
+309
+00:10:27,920 --> 00:10:31,200
+literally today, which is super sick.
+
+310
+00:10:29,880 --> 00:10:32,640
+Let me know, shout out me on Twitter if
+
+311
+00:10:31,200 --> 00:10:34,320
+you actually get one, what you think of
+
+312
+00:10:32,640 --> 00:10:35,920
+it, send me those pictures. I want to
+
+313
+00:10:34,320 --> 00:10:38,800
+see them. Either way, that's it. Thank
+
+314
+00:10:35,920 --> 00:10:40,600
+you for watching. Welcome to Techtember,
+
+315
+00:10:38,800 --> 00:10:42,040
+and I'll see you very soon
+
+316
+00:10:40,600 --> 00:10:44,360
+in the next one.
+
+317
+00:10:42,040 --> 00:10:44,360
+Peace.
+
+318
+00:10:45,182 --> 00:10:47,202
+>> [music]
+
