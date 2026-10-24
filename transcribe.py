@@ -1,25 +1,42 @@
 """无字幕时用 faster-whisper 把音频转写成英文 SRT。"""
 import os
-
-# HuggingFace 直连不通时默认走镜像；用户显式设置过则尊重原值
-os.environ.setdefault("HF_ENDPOINT", "https://hf-mirror.com")
-# 镜像的 Xet 存储会返回 401，禁用后改走普通 HTTP 下载
-os.environ.setdefault("HF_HUB_DISABLE_XET", "1")
-os.environ.setdefault("HF_HUB_DISABLE_SYMLINKS_WARNING", "1")
-
 import sys
+import urllib.request
 from pathlib import Path
 
-from faster_whisper import WhisperModel
-
-from translate import seconds_to_srt
+from dotenv import load_dotenv
 
 sys.stdout.reconfigure(encoding="utf-8")
 
 HERE = Path(__file__).parent
+load_dotenv(HERE / ".env")
+
 MODEL_DIR = HERE / "models"
 DEFAULT_MODEL = os.getenv("WHISPER_MODEL", "small.en")
 PROGRESS_STEP = 30.0
+
+
+def choose_hf_endpoint(model_name: str) -> None:
+    """优先直连 HuggingFace，不通时回退镜像；用户设置 HF_ENDPOINT 则尊重。"""
+    if os.getenv("HF_ENDPOINT"):
+        return
+    if (MODEL_DIR / f"models--Systran--faster-whisper-{model_name}").exists():
+        return
+    try:
+        with urllib.request.urlopen("https://huggingface.co", timeout=3):
+            pass
+    except Exception:
+        os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
+
+
+choose_hf_endpoint(DEFAULT_MODEL)
+# 镜像的 Xet 存储会返回 401，禁用后改走普通 HTTP 下载
+os.environ.setdefault("HF_HUB_DISABLE_XET", "1")
+os.environ.setdefault("HF_HUB_DISABLE_SYMLINKS_WARNING", "1")
+
+from faster_whisper import WhisperModel  # noqa: E402
+
+from translate import seconds_to_srt  # noqa: E402
 
 
 def transcribe_audio(audio: Path, out_srt: Path, model_name: str = DEFAULT_MODEL) -> Path:

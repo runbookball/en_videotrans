@@ -26,13 +26,35 @@
 
 ## 一键安装
 
-前提：已安装 Python 3.11+ 和 Git。
+> 下面的命令都要在**终端**里输入并回车运行，不是双击 `.py` 文件。
+> Windows 推荐用 PowerShell：在文件夹空白处右键 →「在终端中打开」；或先打开 PowerShell，再用 `cd` 进入项目目录。
+
+### 方式一：git clone（推荐）
+
+前提：已安装 Python 3.11+ 和 Git。克隆会在**当前目录**下创建 `en_videotrans` 文件夹。
 
 ```powershell
 git clone https://github.com/runbookball/en_videotrans.git
 cd en_videotrans
 python setup_env.py
 ```
+
+想指定放在哪里，先 `cd` 到目标位置再克隆：
+
+```powershell
+cd D:\deeptalk
+git clone https://github.com/runbookball/en_videotrans.git
+```
+
+### 方式二：下载 Release 源码包（不需要 Git）
+
+1. 打开 [Releases](https://github.com/runbookball/en_videotrans/releases) 页面
+2. 在最新版本下方下载 **Source code (zip)**
+3. 右键压缩包 → **全部解压缩**，解到普通文件夹
+4. 打开解压后的文件夹，在地址栏输入 `powershell` 回车，或右键选择「在终端中打开」
+5. 运行 `python setup_env.py`
+
+> ⚠️ 不要在压缩包的预览窗口里直接双击 `setup_env.py`。Windows 只会把脚本临时解出来，`requirements.txt` 不在旁边，安装会失败。先把整个 zip 完整解压。
 
 脚本全部在项目文件夹内完成：
 
@@ -104,9 +126,17 @@ python sub.py "<YouTube 链接>" --whisper
 
 - 仅支持 YouTube，且目前只处理英语音频。
 - Whisper 使用 CPU 推理，无需 GPU；首次运行会下载 `small.en` 模型（约 480MB），缓存在 `models/`。
-- 模型下载默认走 `hf-mirror.com`；如需其他镜像，可设置环境变量 `HF_ENDPOINT`。
+- 模型下载默认直连 HuggingFace，连不通时自动回退到 `hf-mirror.com`；可用环境变量 `HF_ENDPOINT` 强制指定。
 - 提示「YouTube 要求登录验证」时，可稍后重试或更换网络。
 - 烧录样式使用微软雅黑，在非 Windows 系统上需要修改 `burn.py` 里的字体。
 - 字幕已做清洗、断行和长度优化，但部分长句的翻译语速（CPS）仍可能偏快。
-- 新人创作，请大家随意使用与修改，感谢您的支持！
-- 有问题可发我邮箱runbookball@gmail.com交流，欢迎指点
+
+## 许可证
+
+[MIT](LICENSE)
+
+---
+
+新人创作，欢迎大家修改和使用，欢迎指点，也请大家随意使用与修改，感谢支持！
+
+有问题可发邮箱 runbookball@gmail.com 交流。
