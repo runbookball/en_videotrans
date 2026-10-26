@@ -111,6 +111,19 @@ python sub.py "<YouTube 链接>" --whisper
 
 > 链接建议加引号，避免 shell 把 `?`、`&` 当作特殊字符。
 
+这几个参数可以按需组合。比如：
+
+```bash
+# 下载视频 + 用 Whisper 转写 + 烧录字幕
+python sub.py "<YouTube 链接>" --video --whisper --burn
+```
+
+注意 `--burn` 本身已包含 `--video`，只写 `--burn` 就够；两个一起写也不会出错。
+
+**Whisper 是什么？** 它是 OpenAI 开源的语音识别模型，作用是把视频里的声音转成文字。本项目通过 faster-whisper 在本地 CPU 上运行，不需要 GPU。
+
+默认情况下，程序会优先使用 YouTube 自带的英文字幕，只有视频没有英文字幕时才自动调用 Whisper（首次使用会自动下载模型，见下方「说明与限制」）。加上 `--whisper` 则跳过自动字幕，强制用 Whisper 从音频重新转写，适合自动字幕出错较多、断句混乱的视频。
+
 ## 输出
 
 产物保存在 `work/<视频ID>/`：
